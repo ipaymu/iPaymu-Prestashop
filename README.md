@@ -1,4 +1,5 @@
-<p align="center"><img src="https://ipaymu.com/wp-content/themes/ipaymu-new/assets/img/logo/ipaymu-text-plus-blue.png"></p>
+![alt text](https://ipaymu.com/wp-content/themes/ipaymu-new/assets/img/logo/ipaymu-text-plus-blue.png)
+
 # iPaymu-Prestashop
 
 ## Tentang iPaymu.com

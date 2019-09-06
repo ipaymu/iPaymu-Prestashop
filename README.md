@@ -1,4 +1,4 @@
-![alt text](https://ipaymu.com/wp-content/themes/ipaymu-new/assets/img/logo/ipaymu-text-plus-blue.png)
+![iPaymu.com](https://ipaymu.com/wp-content/themes/ipaymu-new/assets/img/logo/ipaymu-text-plus-blue.png)
 
 # iPaymu-Prestashop
 
